@@ -1,3 +1,5 @@
+Built with Python 3.10.11 and using an Anaconda environment with the packages in requirements.txt
+
 StationInfo.py returns infomration from a fixed single station or set of stations
 AllTrains.py allows you to pick a station by name and it will change the api request to get that station info
 
